@@ -443,9 +443,21 @@ ol {
 	z-index: 99;
 }
 
+.header-section1 {
+	background: rgba(0, 0, 0, 0.63);
+	padding: 54px 0px;
+	border-bottom: 2px solid #25ae88;
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 100;
+}
+
+
 .site-logo {
 	display: inline-block;
-	float: left;
+	float: middle;
 }
 
 .nav-switch {
