@@ -5,7 +5,7 @@ const exphbs = require('express-handlebars');
 const path = require('path');
 
 //Global Constant || Heroku Deployment Setup
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 //Initialize the App
 const app = express();
 
